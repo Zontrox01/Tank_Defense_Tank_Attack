@@ -1,0 +1,34 @@
+{
+  "display": {
+    "fullscreen": true,
+    "window_width": 1920,
+    "window_height": 1080
+  },
+  "gameplay": {
+    "difficulty": "easy",
+    "targets_per_level": 3,
+    "shots_per_target": 3,
+    "max_failures": 3,
+    "wind_enabled": true,
+    "max_wind": 10.0,
+    "gravity": 500.0,
+    "charge_time": 1.5,
+    "angle_speed": 30.0,
+    "wheel_step": 2.0,
+    "action_radius": 260,
+    "moving_targets": true
+  },
+  "audio": {
+    "sound": true,
+    "music": true,
+    "volume": 0.8
+  },
+  "keys": {
+    "angle_up": "Up",
+    "angle_down": "Down",
+    "fire": "Space",
+    "pause": "Escape",
+    "edit_angle": "A",
+    "edit_power": "P"
+  }
+}
