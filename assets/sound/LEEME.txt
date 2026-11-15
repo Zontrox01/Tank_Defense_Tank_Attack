@@ -1,1 +1,0 @@
-Coloca aqui: shot.mp3 (disparo), burst.mp3 (explosion), gameover.mp3 (fin de partida) y song.mp3 (musica de fondo).
