@@ -1,0 +1,55 @@
+{
+  "fullscreen": false,
+  "window_w": 1000,
+  "window_h": 720,
+  "mode": 2,
+  "lives": 3,
+  "kills_per_level": 10,
+  "start_enemies": 2,
+  "enemies_every": 2,
+  "max_enemies": 16,
+  "start_speed": 1,
+  "speed_pct": 5,
+  "spawn_mode": "progressive",
+  "max_bullets": 0,
+  "fire_cooldown_ms": 238,
+  "sound": true,
+  "music": true,
+  "keys": {
+    "n": [
+      "kp:56",
+      "k:16777235"
+    ],
+    "ne": [
+      "kp:57"
+    ],
+    "e": [
+      "kp:54",
+      "k:16777236"
+    ],
+    "se": [
+      "kp:51"
+    ],
+    "s": [
+      "kp:50",
+      "k:16777237"
+    ],
+    "sw": [
+      "kp:49"
+    ],
+    "w": [
+      "kp:52",
+      "k:16777234"
+    ],
+    "nw": [
+      "kp:55"
+    ],
+    "fire": [
+      "k:32"
+    ],
+    "pause": [
+      "k:16777216",
+      "k:80"
+    ]
+  }
+}
