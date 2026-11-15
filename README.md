@@ -1,7 +1,11 @@
 # Tank Defense y Tank Attack
 
-Un tanque en el centro que solo rota y dispara; los enemigos llegan desde los bordes
+Tank Defense: Un tanque en el centro que solo rota y dispara; los enemigos llegan desde los bordes
 (y las esquinas en la modalidad de 8 direcciones) hacia el centro. Si uno lo toca, pierdes una vida.
+
+Juego de artillería en Python + PySide6. Un tanque dispara misiles en parábola
+contra un objetivo situado en el otro extremo de un terreno aleatorio, con
+viento y colinas por medio.
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![PySide6](https://img.shields.io/badge/UI-PySide6%20(Qt6)-green)
@@ -75,11 +79,7 @@ la consola muestra el motivo (normalmente un códec no soportado por el sistema)
 
 
 
-# Tanque Parabólico
-
-Juego de artillería en Python + PySide6. Un tanque dispara misiles en parábola
-contra un objetivo situado en el otro extremo de un terreno aleatorio, con
-viento y colinas por medio.
+# Tank Attack
 
 ## Instalación y ejecución
 
